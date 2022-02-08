@@ -1,0 +1,19 @@
+item_data:
+  material: record_4
+  data: 0
+  title: '111'
+  lore:
+    - ''
+    - 'fd'
+    - ''
+  flags:
+    - HIDE_ATTRIBUTES
+  isGlowing: true
+  executing_commands: []
+
+success_message: 'ура, ебать'
+incorrect_syntax: 'используй /pil <ник>'
+player_is_null: 'игрок не найден епта'
+success_gived: 'выдано'
+velocity_value: 3
+success_reloaded: 'успешно перезагружен конфиг'

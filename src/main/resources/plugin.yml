@@ -1,0 +1,12 @@
+name: PvPItemLeave
+version: 1.0
+main: ru.codeon.pvpitemleave.PvPItemLeavePlugin
+load: STARTUP
+author: codeon
+
+commands:
+  pvpitemleave:
+    permission: pvpitemleave.admin
+    permission-message: '§f§l<§6§l!§f§l> §fУ Вас §6не хватает §fправ'
+    aliases:
+      - pil
